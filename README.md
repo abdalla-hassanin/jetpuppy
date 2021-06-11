@@ -60,7 +60,7 @@ The codebase focuses on following key things:
 - [Animal Adopt App](https://dribbble.com/shots/7062525-Animal-Adopt-Apps) - Dribbble
 
 
-## License
+## License 
 ```
 Copyright 2020 The Android Open Source Project
 
